@@ -146,6 +146,7 @@ ai.predict(X_n1_1)
 <img width="408" alt="test data" src="https://github.com/NAVEENKUMAR4325/basic-nn-model/assets/119479566/a7af5c03-2a78-4051-8f4b-cabf2bcbb365">
 
 
+
 ### New Sample Data Prediction
 
 <img width="315" alt="sample" src="https://github.com/NAVEENKUMAR4325/basic-nn-model/assets/119479566/f0d45a6a-504f-4ddc-afc5-2c99761597af">
