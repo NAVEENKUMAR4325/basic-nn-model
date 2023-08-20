@@ -47,8 +47,8 @@ Evaluate the model with the testing data.
 
 ## PROGRAM
 ```
-Developed by: Naveen Kumar.E
-Reg. No     : 212222220029
+Developed by: Naveen Kumar E
+Register No : 212222220029
 ```
 ### Importing Modules
 ```
