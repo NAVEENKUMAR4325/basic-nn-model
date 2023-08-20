@@ -90,9 +90,9 @@ Scaler.fit(X_train)
 X_train1 = Scaler.transform(X_train)
 X_train1
 ```
-### Create a Neural Network & Train it
+## Create a Neural Network & Train it:
 
-####Create the model
+###Create the model
 ```
 ai=Sequential([
     Dense(7,activation='relu'),
@@ -100,11 +100,11 @@ ai=Sequential([
     Dense(1)
 ])
 ```
-####Compile the model
+###Compile the model
 ```
 ai.compile(optimizer='rmsprop',loss='mse')
 ```
-###fit the model
+##fit the model
 ```
 ai.fit(X_train1,y_train,epochs=2000)
 ai.fit(X_train1,y_train,epochs=2000)
