@@ -10,7 +10,8 @@ Explain the problem statement
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![Screenshot 2023-08-20 204748](https://github.com/NAVEENKUMAR4325/basic-nn-model/assets/119479566/9bebbd5b-811c-45bf-9f04-9c8af69448f8)
+
 
 ## DESIGN STEPS
 
@@ -125,20 +126,26 @@ ai.predict(X_n1_1)
 
 ## Dataset Information
 
-Include screenshot of the dataset
+<img width="170" alt="deep" src="https://github.com/NAVEENKUMAR4325/basic-nn-model/assets/119479566/3f4fd522-e0c6-40fd-b2e4-169abe62a867">
+
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+<img width="421" alt="loss" src="https://github.com/NAVEENKUMAR4325/basic-nn-model/assets/119479566/2bf33b59-1875-433a-9b76-f2a49da6098f">
+
+
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+<img width="408" alt="test data" src="https://github.com/NAVEENKUMAR4325/basic-nn-model/assets/119479566/a7af5c03-2a78-4051-8f4b-cabf2bcbb365">
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+<img width="315" alt="sample" src="https://github.com/NAVEENKUMAR4325/basic-nn-model/assets/119479566/f0d45a6a-504f-4ddc-afc5-2c99761597af">
 
-## RESULT
+
+## RESULT:
+Thus the neural network regression model for the given dataset is developed and executed successfully.
